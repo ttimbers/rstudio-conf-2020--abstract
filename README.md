@@ -4,7 +4,7 @@
 
 - How we teach R & Python in a 10-month professional Data Science masters program at UBC.
 - How we meet the pedagogical challenge of teaching both R and Python in a Data Science program, and strategies to navigate them.
-- Tools for working harmonioulsy with R and Python within a single data analysis project.
+- Tools for working harmoniously with R and Python within a single data analysis project.
 
 ### Abstract
 R and Python are the two leading languages used in industry and academia for data analysis. Thus, to best prepare students in the University of British Columbia's course-based, professional Master of Data Science (MDS) program to be competitive and perform on the job market we have made an explicit decision to have our program teach both the R and Python programming languages. 
