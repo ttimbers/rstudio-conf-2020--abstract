@@ -1,0 +1,42 @@
+---
+title: "Integrating R & Python into a Data Science program"
+author: "Tiffany Timbers & Ian Flores"
+institute: "University of British Columbia"
+date: "2020/01/25 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+
+class: middle, center
+
+<img src="img/mds-language-overview.png">
+
+---
+
+class: middle
+
+.pull-left[
+## Tools we teach for R & Python harmony
+* [RStudio](https://rstudio.com)
+* [Jupyter](https://jupyter.org/)
+* [knitr](https://yihui.org/knitr/) & [R Markdown](https://rmarkdown.rstudio.com/)
+* [feather file format](https://blog.rstudio.com/2016/03/29/feather/)
+* [reticulate](https://rstudio.github.io/reticulate/)
+* [Make](https://the-turing-way.netlify.com/make/make.html)
+* [Docker](https://www.docker.com/)
+]
+
+.pull-right[
+<img src="img/mds-tools.png">
+]
+
+---
+
+
+---
