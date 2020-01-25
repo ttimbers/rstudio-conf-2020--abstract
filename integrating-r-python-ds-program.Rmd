@@ -52,8 +52,12 @@ class: middle
 
 ## Example 3: GNU Make for polyglot automation!
 
+<img src="img/Makefile.png">
+
 ---
 
 ## Example 4: Docker for polyglot reproducibility!
+
+<img src="img/docker.png">
 
 ---
