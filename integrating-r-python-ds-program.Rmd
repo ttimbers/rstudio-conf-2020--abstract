@@ -30,6 +30,7 @@ class: middle
 * [reticulate](https://rstudio.github.io/reticulate/)
 * [Make](https://the-turing-way.netlify.com/make/make.html)
 * [Docker](https://www.docker.com/)
+* [plotly Dash](https://plot.ly/dash/)
 ]
 
 .pull-right[
@@ -68,7 +69,7 @@ class: middle
 
 **Problem 1:** Mixed proficiencies of previous R & Python programming skills between students
 
-**Solution 1:**: Optional questions to challenge more advanced students, and extra practice questions with feedback to support novices.
+**Solution 1:** Optional questions to challenge more advanced students, and extra practice questions with feedback to support novices.
 
 ---
 
