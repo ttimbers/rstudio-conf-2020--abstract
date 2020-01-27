@@ -116,3 +116,5 @@ Tips for integrating R & Python into a Data Science program:
 class: middle, center, inverse
 
 # Thanks!
+
+UBC MDS public resources: https://github.com/UBC-MDS/public
