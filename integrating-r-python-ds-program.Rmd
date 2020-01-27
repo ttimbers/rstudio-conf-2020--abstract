@@ -1,6 +1,6 @@
 ---
 title: "Integrating R & Python into a Data Science program"
-author: "Tiffany Timbers & Ian Flores"
+author: "Tiffany Timbers & Ian Flores Siaca"
 institute: "University of British Columbia"
 date: "2020/01/25 (updated: `r Sys.Date()`)"
 output:
