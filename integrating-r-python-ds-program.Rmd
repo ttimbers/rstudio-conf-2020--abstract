@@ -2,31 +2,39 @@
 title: "Integrating R & Python into a Data Science program"
 author: "Tiffany Timbers & Ian Flores Siaca"
 institute: "University of British Columbia"
-date: "2020/01/25 (updated: `r Sys.Date()`)"
 output:
   xaringan::moon_reader:
+    css: ["custom_theme.css", "default"]
     lib_dir: libs
     nature:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
+      slideNumberFormat: "%current%"
 ---
 
+layout: true
+
+<div class="my-footer"><span>@UBC_MDS
+&emsp;&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;bit.ly/rstudio-conf-mds</span></div> 
+
+---
 
 class: middle, center
 
-# [UBC Master of Data Science program](https://ubc-mds.github.io/about/)
+## [UBC Master of Data Science](https://ubc-mds.github.io/about/)
 
-<img src="img/mds-language-overview.png">
+<img src="img/mds-language-overview.png" height="525px">
 
 ---
 
 class: middle
 
-# [UBC Master of Data Science program](https://ubc-mds.github.io/about/)
+## [UBC Master of Data Science program](https://ubc-mds.github.io/about/)
 
 .pull-left[
-## Tools we teach for R & Python harmony
+### Tools we teach for R & Python harmony
 * [RStudio](https://rstudio.com)
 * [Jupyter](https://jupyter.org/)
 * [knitr](https://yihui.org/knitr/) & [R Markdown](https://rmarkdown.rstudio.com/)
@@ -45,7 +53,7 @@ class: middle
 
 ## Example 1: R in Jupyter!
 
-<img src="img/r_in_jupyter.png">
+<img src="img/r_in_jupyter.png" height="500px">
 
 ---
 
@@ -57,19 +65,19 @@ class: middle
 
 ## Example 3: GNU Make for polyglot automation!
 
-<img src="img/Makefile.png">
+<img src="img/Makefile.png" height="450px">
 
 ---
 
 ## Example 4: Docker for polyglot reproducibility!
 
-<img src="img/docker.png">
+<img src="img/docker.png" height="450px">
 
 ---
 
 ## Example 5: Dashboards in R with plotly Dash!
 
-<img src="img/plotly-dash.png">
+<img src="img/plotly-dash.png" height="450px">
 
 ---
 
@@ -105,7 +113,7 @@ class: middle
 
 class: middle
 
-# Take homes:
+## Take homes:
 
 Tips for integrating R & Python into a Data Science program:
 
