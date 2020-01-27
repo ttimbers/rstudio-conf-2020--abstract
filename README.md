@@ -1,5 +1,9 @@
 ## Integrating R & Python into a Data Science program
 
+### Talk slides
+
+Available [here](https://ttimbers.github.io/rstudio-conf-2020-ubc-mds/integrating-r-python-ds-program.html).
+
 ### Learning Objective - What will attendees learn from your talk?
 
 1. How we teach R & Python in a 10-month professional Data Science masters program at UBC. 
@@ -13,6 +17,4 @@ Students are concurrently introduced to R and Python in the MDS in the first wee
 
 In this talk we will discuss the pedagogical challenges we have encountered while teaching both R and Python in a Data Science program, and the strategies we have tried to implement to address them. We will also showcase key tools we have converged on teaching to our students that allow them to work harmoniously with R & Python within a single data analysis project. We will also discuss how we try to effectively teach them. These tools include reticulate, rpy2, the feather file format, Make and Docker.
 
-### Talk slides
 
-Available [here](https://ttimbers.github.io/rstudio-conf-2020-abstract/integrating-r-python-ds-program.html).
