@@ -15,11 +15,15 @@ output:
 
 class: middle, center
 
+# [UBC Master of Data Science program](https://ubc-mds.github.io/about/)
+
 <img src="img/mds-language-overview.png">
 
 ---
 
 class: middle
+
+# [UBC Master of Data Science program](https://ubc-mds.github.io/about/)
 
 .pull-left[
 ## Tools we teach for R & Python harmony
